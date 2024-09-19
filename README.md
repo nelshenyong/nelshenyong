@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a high school student currently in 11th grade at SMA Ignatius Global School. I'm passionate about learning new things, especially in the field of technology and web development. I enjoy working on coding projects that allow me to explore creative solutions, and I’m always looking for ways to improve my skills. Check out my repositories to see what I’ve been working on!
+I'm passionate about learning new things, especially in the field of technology and web development. I enjoy working on coding projects that allow me to explore creative solutions, and I’m always looking for ways to improve my skills. Check out my repositories to see what I’ve been working on!
 
 
 ## 🌐 Socials:
